@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Spindle",
+      "hasCanvas": false,
+      "bodyTextLen": 1382,
+      "bodyTextHash": "ef0dc2c833ec854c7693cb8bde868c097a685ee2355da311dab8a2433e1ecaa3",
+      "bodyTextPrefix": "Spindle Bench Notes VARISPEED Spindle Play a file the way a turn",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Spindle",
+      "hasCanvas": false,
+      "bodyTextLen": 1382,
+      "bodyTextHash": "ef0dc2c833ec854c7693cb8bde868c097a685ee2355da311dab8a2433e1ecaa3",
+      "bodyTextPrefix": "Spindle Bench Notes VARISPEED Spindle Play a file the way a turn",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
